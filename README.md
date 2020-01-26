@@ -9,15 +9,15 @@ Markdown
 	
     		Movie
 		
-      			Cfg.de.md
+      			Cfg.de.md	X
 			
-      			FFmpeg.de.md
+      			FFmpeg.de.md	X
 			
-      			General.de.md
+      			General.de.md	X
 			
-      			Getting-Gtarted.de.md
+      			Getting-Started.de.md	X
 			
-      			Hlae.de.md
+      			Hlae.de.md	X
 			
       			VirtualDub.de.md
 			
@@ -53,5 +53,5 @@ Markdown
 		
 Translations
 
-  de.json
+	  de.json	X
 	
